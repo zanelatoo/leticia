@@ -1,0 +1,24 @@
+header {
+    width: 100%;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+}
+
+h1{
+    color: #e4ac1f;
+}
+
+.cabecalho-lista{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    color: #e4ac1f;;
+}
+
+.cabecalho-lista-item{
+    margin-right: 30px;
+    font-size: 20px;
+}
