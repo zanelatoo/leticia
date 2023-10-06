@@ -10,6 +10,7 @@ header {
     align-items: center;
     justify-content: space-around;
     background-color: black;
+  
 }
 
 h1{
@@ -51,6 +52,7 @@ a:hover{
     position: absolute;
 }
 
+
 h2{
     text-align: center;
     font-size: 36px;
@@ -61,6 +63,7 @@ article{
     align-items: center;
     justify-content: space-around;
 }
+
 
 .card{
     height: 20px;
@@ -89,3 +92,23 @@ h3{
     text-align: center;
 }
 
+#nails{
+    height: 60vh;
+}
+#massagens{
+    height: 60vh;
+    background: #c594185b;
+}
+
+#sombrancelhas{
+    height: 60vh;
+}
+
+#cabelos{
+    height: 60vh;
+    background: #c594185b;
+}
+
+#cilios{
+    height: 60vh;
+}
